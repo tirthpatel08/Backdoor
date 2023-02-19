@@ -1,4 +1,4 @@
-The "Backdoor" repository is a powerful cybersecurity tool designed for penetration testers and ethical hackers to test the security of their systems. This tool allows you to create and execute custom backdoors that can bypass traditional security measures, giving you full access to a target system.
+The "Backdoor" is a powerful cybersecurity tool designed for penetration testers and ethical hackers to test the security of their systems. This tool allows you to create and execute custom backdoors that can bypass traditional security measures, giving you full access to a target system.
 
 The Backdoor tool is built using Python, and it comes with an easy-to-use command-line interface that allows you to specify the parameters for your backdoor. You can create a backdoor that uses a variety of techniques, such as reverse shells, bind shells, and HTTP/SOCKS proxies.
 
